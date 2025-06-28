@@ -4,16 +4,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp"
-    android:background="#ffffff">
+    android:background="#FFFFFF">
 
     <TextView
-        android:text="Calculator"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="#006666" />
+        android:background="#009688"
+        android:text="   Calculator"
+        android:textColor="#FFFFFF"
+
+        android:textSize="24sp"
+        android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content"
